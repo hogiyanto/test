@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 halo halo
 
 edit2 isi test.txt
@@ -5,3 +6,6 @@ edit2 isi test.txt
 ---
 
 branch
+=======
+halo halo
+>>>>>>> parent of 24d4765... commit ubah isi test.txt
